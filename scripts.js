@@ -9,7 +9,7 @@ var typed = new Typed(".typewriter-text",
         ],
         typeSpeed: 100,
         backSpeed: 70,
-        loop:true
+        loop:false
         
     }
 )
